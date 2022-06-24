@@ -23,7 +23,7 @@ This project is a simple Pong Game made with HTML, CSS and JS. Feel free to fork
 ## 💼 HOW TO USE
 ```
 - Clone this repository:
-$ git clone https://github.com/JorgeFBMoreira/OriginSix
+$ git clone https://github.com/JorgeFBMoreira/PongGame
 
 - Start a local server with Live Server (VS Code)
 
